@@ -12,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ### Syntax highlighted code block
 ```markdown```
 
-``````markdown``````
+Use this technique to show the symbols needed has proven tricky so it is described instead three grave accent (AKA backquote) symbols before and after stops Markdown formatting from being applied.
 
 ### Different Tier of Headers
 
