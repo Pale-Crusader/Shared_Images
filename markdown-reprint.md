@@ -30,14 +30,18 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 - Bulleted
 - List
 
+```
 - Bulleted
 - List
+```
 
 1. Numbered
-2. List
+1. List
 
+```
 1. Numbered
-2. List
+1. List
+```
 
 ### Inline Fotmating
 
